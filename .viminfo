@@ -1,0 +1,294 @@
+# Ce fichier viminfo a été généré par Vim 8.1.
+# Vous pouvez l'éditer, mais soyez prudent.
+
+# Viminfo version
+|1,4
+
+# 'encoding' dans lequel ce fichier a été écrit
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Historique ligne de commande (chronologie décroissante) :
+:wq!
+|2,0,1616256432,,"wq!"
+
+# Historique chaîne de recherche (chronologie décroissante) :
+
+# Historique expression (chronologie décroissante) :
+
+# Historique ligne de saisie (chronologie décroissante) :
+
+# Historique Ligne de débogage (chronologie décroissante) :
+
+# Registres :
+""-	CHAR	0
+	S
+|3,1,36,0,1,0,1616253709,"S"
+
+# Marques dans le fichier :
+'0  13  22  ~/port_scanner_socket.py
+|4,48,13,22,1616256432,"~/port_scanner_socket.py"
+'1  8  24  ~/port_scanner_socket.py
+|4,49,8,24,1616256319,"~/port_scanner_socket.py"
+'2  8  24  ~/port_scanner_socket.py
+|4,50,8,24,1616256319,"~/port_scanner_socket.py"
+'3  15  37  ~/port_scanner_socket.py
+|4,51,15,37,1616255274,"~/port_scanner_socket.py"
+'4  15  37  ~/port_scanner_socket.py
+|4,52,15,37,1616255274,"~/port_scanner_socket.py"
+'5  13  37  ~/port_scanner_socket.py
+|4,53,13,37,1616255274,"~/port_scanner_socket.py"
+'6  13  37  ~/port_scanner_socket.py
+|4,54,13,37,1616255274,"~/port_scanner_socket.py"
+'7  5  15  ~/port_scanner_nmap.py
+|4,55,5,15,1616254475,"~/port_scanner_nmap.py"
+'8  5  15  ~/port_scanner_nmap.py
+|4,56,5,15,1616253758,"~/port_scanner_nmap.py"
+'9  5  18  ~/port_scanner_nmap.py
+|4,57,5,18,1616253721,"~/port_scanner_nmap.py"
+
+# Liste de sauts (le plus récent en premier) :
+-'  13  22  ~/port_scanner_socket.py
+|4,39,13,22,1616256432,"~/port_scanner_socket.py"
+-'  8  24  ~/port_scanner_socket.py
+|4,39,8,24,1616256340,"~/port_scanner_socket.py"
+-'  8  24  ~/port_scanner_socket.py
+|4,39,8,24,1616256319,"~/port_scanner_socket.py"
+-'  15  37  ~/port_scanner_socket.py
+|4,39,15,37,1616256304,"~/port_scanner_socket.py"
+-'  13  37  ~/port_scanner_socket.py
+|4,39,13,37,1616256304,"~/port_scanner_socket.py"
+-'  13  37  ~/port_scanner_socket.py
+|4,39,13,37,1616255274,"~/port_scanner_socket.py"
+-'  1  0  ~/port_scanner_socket.py
+|4,39,1,0,1616254855,"~/port_scanner_socket.py"
+-'  1  0  ~/port_scanner_socket.py
+|4,39,1,0,1616254855,"~/port_scanner_socket.py"
+-'  1  0  ~/port_scanner_socket.py
+|4,39,1,0,1616254855,"~/port_scanner_socket.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616254475,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616254475,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616254475,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616254475,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616254475,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616254475,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616254475,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616254475,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616253758,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616253758,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616253758,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616253758,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616253758,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616253758,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616253758,"~/port_scanner_nmap.py"
+-'  5  15  ~/port_scanner_nmap.py
+|4,39,5,15,1616253758,"~/port_scanner_nmap.py"
+-'  5  18  ~/port_scanner_nmap.py
+|4,39,5,18,1616253721,"~/port_scanner_nmap.py"
+-'  5  18  ~/port_scanner_nmap.py
+|4,39,5,18,1616253721,"~/port_scanner_nmap.py"
+-'  5  18  ~/port_scanner_nmap.py
+|4,39,5,18,1616253721,"~/port_scanner_nmap.py"
+-'  5  18  ~/port_scanner_nmap.py
+|4,39,5,18,1616253721,"~/port_scanner_nmap.py"
+-'  5  18  ~/port_scanner_nmap.py
+|4,39,5,18,1616253721,"~/port_scanner_nmap.py"
+-'  5  18  ~/port_scanner_nmap.py
+|4,39,5,18,1616253721,"~/port_scanner_nmap.py"
+-'  5  18  ~/port_scanner_nmap.py
+|4,39,5,18,1616253721,"~/port_scanner_nmap.py"
+-'  5  18  ~/port_scanner_nmap.py
+|4,39,5,18,1616253721,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253698,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253675,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253675,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253675,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253675,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253675,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253675,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253675,"~/port_scanner_nmap.py"
+-'  3  7  ~/port_scanner_nmap.py
+|4,39,3,7,1616253675,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253607,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253526,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253526,"~/port_scanner_nmap.py"
+-'  9  31  ~/port_scanner_nmap.py
+|4,39,9,31,1616253526,"~/port_scanner_nmap.py"
+
+# Historique des marques dans les fichiers (les plus récentes en premier) :
+
+> ~/port_scanner_socket.py
+	*	1616256430	0
+	"	13	22
+	^	13	23
+	.	13	22
+	+	3	19
+	+	4	56
+	+	15	37
+	+	8	25
+	+	11	22
+	+	13	22
+
+> ~/port_scanner_nmap.py
+	*	1616254473	0
+	"	5	15
+	^	5	16
+	.	5	15
+	+	2	72
+	+	2	108
+	+	2	123
+	+	9	31
+	+	2	9
+	+	3	7
+	+	5	15
+
+> ~/information_sys.py
+	*	1616249979	0
+	"	11	0
+	^	11	0
+	.	10	0
+	+	10	0
+
+> ~/scanner_port.py
+	*	1616249144	0
+	"	14	24
+	^	14	25
+	.	14	24
+	+	19	16
+	+	14	24
